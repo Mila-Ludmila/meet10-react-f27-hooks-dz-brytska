@@ -1,0 +1,11 @@
+p{
+  text-align: center;
+  padding: 5px;
+}
+.user{
+  color: green;
+}
+
+.login{
+  color: red;
+}
